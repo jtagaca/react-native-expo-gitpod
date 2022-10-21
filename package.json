@@ -1,5 +1,7 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
+  "name": "react_native_3",
+  "version": "0.1.0",
+
   "scripts": {
 	    "start": "expo start --host tunnel",
     "android": "expo start --android",
